@@ -9,4 +9,5 @@ function Check (query) {
     else {
     var type = "Null"
     }
+    type
 }
